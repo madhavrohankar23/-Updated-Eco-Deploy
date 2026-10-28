@@ -54,3 +54,5 @@ graphify-out/*
 !graphify-out/GRAPH_REPORT.md
 
 Research_Papers/*
+
+.vercel/
