@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌿 Eco-Move Nagpur
 ### Intelligent Multimodal Public Transit, Real-Time Telemetry & Smart Ticketing Platform
 
@@ -380,3 +381,6 @@ New bus corridors, metro stations, and schedules can be added without modifying 
 * **Department:** Department of Computer Science & Engineering
 * **Institution:** G.H. Raisoni College of Engineering (GHRCE), Nagpur
 * **Domain:** Smart Cities, Intelligent Mobility, WebGIS, Carbon Optimization
+=======
+# -Updated-Eco-Deploy
+>>>>>>> 86a78ac7ccd2d83c796e8821eb7a36d32a2d8ae3
